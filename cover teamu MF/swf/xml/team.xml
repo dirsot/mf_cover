@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coverflow>
+<cover 
+	img="images/album1.jpg" 
+	title="The White Stripes"
+	link="http://www.ilike.com/artist/The+White+Stripes?src=onebox" />
+<cover 
+	img="images/album11.jpg" 
+	title="Kanye West"
+	link="http://www.ilike.com/artist/Kanye+West?src=onebox" />
+<cover 
+	img="images/album1.jpg" 
+	title="A Fine Frenzy"
+	link="http://www.ilike.com/artist/A+Fine+Frenzy?src=onebox" />
+<cover 
+	img="images/album11.jpg" 
+	title="Amy Winehouse"
+	link="http://www.ilike.com/artist/Amy+Winehouse?src=onebox" />
+<cover 
+	img="images/album1.jpg" 
+	title="The Vines"
+	link="http://www.ilike.com/artist/The+Vines?src=onebox" />
+<cover 
+	img="images/album11.jpg" 
+	title="The Strokes"
+	link="http://www.ilike.com/artist/The+Strokes?src=onebox" />
+<cover 
+	img="images/dog.gif" 
+	title="Yeah Yeah Yeahs"
+	link="http://www.ilike.com/artist/Yeah+Yeah+Yeahs?src=onebox" />
+<cover 
+	img="images/dog.gif" 
+	title="Danger Doom"
+	link="http://www.lala.com/#artist/Danger_Doom" />
+<cover 
+	img="images/dog.gif" 
+	title="Fort Minor"
+	link="http://www.ilike.com/artist/Fort+Minor?src=onebox" />
+</coverflow>
